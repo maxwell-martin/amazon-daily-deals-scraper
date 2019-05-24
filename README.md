@@ -6,7 +6,7 @@ The file `front-end-scrape-main.js` inside the `code/front-end` folder goes thro
 
 The file `back-end-scrape-main.js` inside the `code/back-end` folder mimics Amazon's API calls. It gets more detailed data about only 300 deals.
 
-The `links only` files scrape only the links of the daily deals. There are two options, front-end and back-end. The links are then available in an array.
+The `links-only.js` files scrape only the links of the daily deals. There are two options, front-end and back-end. The links are then available in an array.
 
 ---
 
