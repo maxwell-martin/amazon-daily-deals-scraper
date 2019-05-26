@@ -23,7 +23,3 @@ To run any of these files:
 The `code/miscellaneous` folder contains two files:
 - `miscellaneous.js` contains random code created during the process of doing this project
 - `r-script-for-descriptive-stats.R` contains R code to gather descriptive statistics about the scraped data
-
----
-
-Written using [Vanilla JS](http://vanilla-js.com/) :wink:
